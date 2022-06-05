@@ -5,7 +5,7 @@
 module.exports = {
     config: {
     	// tab
-    	activeTab: "",
+    	activeTab: "😶‍🌫️",
     
         // choose either `'stable'` for receiving highly polished,
         // or `'canary'` for less polished but more frequent updates
